@@ -28,3 +28,7 @@ Every Topics I will mention:
 - Away and home goals 
 
 - Goals by minute
+
+- Three or more goals matches
+
+- Two or more goals matches
