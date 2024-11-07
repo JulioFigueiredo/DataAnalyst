@@ -1,2 +1,2 @@
-# DataAnalyst
-This repository has studies about DataAnalyst
+# DataAnalysis
+This repository has studies about DataAnalysis
