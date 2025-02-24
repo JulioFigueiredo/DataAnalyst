@@ -38,9 +38,6 @@ This can be important for football lovers to have a new vision of CR7 career
 
 - Ronaldo has 17 goals on the minute 90.
 
-## About Me
-
-I am passionate about data analysis and enjoy applying my skills to real-world problems. My expertise includes Python, SQL, Power BI, and statistical methods for data exploration and visualization.
 
 ### 4. Project 4: Pima_Indians_Diabetes_Analysis
 
@@ -53,3 +50,7 @@ I am passionate about data analysis and enjoy applying my skills to real-world p
 - Glucose levels and age are the most significant predictors of diabetes.
 
 - The logistic regression model achieved an accuracy of 75%, with a recall value indicating some room for improvement in detecting true positive cases.
+
+## About Me
+
+I am passionate about data analysis and enjoy applying my skills to real-world problems. My expertise includes Python, SQL, Power BI, and statistical methods for data exploration and visualization.
