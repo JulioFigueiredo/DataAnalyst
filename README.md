@@ -42,3 +42,14 @@ This can be important for football lovers to have a new vision of CR7 career
 
 I am passionate about data analysis and enjoy applying my skills to real-world problems. My expertise includes Python, SQL, Power BI, and statistical methods for data exploration and visualization.
 
+### 4. Project 4: Pima_Indians_Diabetes_Analysis
+
+**Description:** This project focuses on analyzing the Pima Indians Diabetes dataset to identify patterns and predict the likelihood of diabetes based on various medical factors such as age, glucose levels, and insulin. It’s important for understanding health patterns and potentially preventing diabetes in at-risk populations.
+
+**Tools Used:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+**Key Insights:**  
+
+- Glucose levels and age are the most significant predictors of diabetes.
+
+- The logistic regression model achieved an accuracy of 75%, with a recall value indicating some room for improvement in detecting true positive cases.
