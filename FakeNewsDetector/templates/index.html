@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Fake News Detector</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #f4f4f9; }
+        h1 { color: #333; }
+        form { margin-top: 20px; }
+        textarea { width: 100%; height: 150px; padding: 10px; font-size: 14px; }
+        button { padding: 10px 20px; margin-top: 10px; background: #007bff; color: #fff; border: none; cursor: pointer; }
+        button:hover { background: #0056b3; }
+        .result { margin-top: 20px; padding: 15px; border-radius: 5px; background: #e9ecef; }
+    </style>
+</head>
+<body>
+    <h1>Fake News Detector</h1>
+    <form action="/check" method="post">
+        <textarea name="text" placeholder="Cole a notícia aqui..."></textarea><br>
+        <button type="submit">Verificar</button>
+    </form>
+
+    {% if result %}
+    <div class="result">
+        <strong>Resultado:</strong> {{ result | safe }}
+    </div>
+    {% endif %}
+</body>
+</html>
